@@ -10,7 +10,7 @@
 ![57](https://github.com/DC-Lin/bostom_housing/blob/master/57.png)  
 ![65](https://github.com/DC-Lin/bostom_housing/blob/master/65.png)  
 ![73](https://github.com/DC-Lin/bostom_housing/blob/master/73.png)  
-房价的数据分布
+房价的数据分布  
 ![price.png](https://github.com/DC-Lin/bostom_housing/blob/master/price.png)  
 最终调整模型参数  
 ![grie](https://github.com/DC-Lin/bostom_housing/blob/master/gridcv.png)  
